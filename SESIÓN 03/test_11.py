@@ -12,3 +12,5 @@ Requisitos:
 - Mostrar la lista vacía de la segunda persona aplicando el método respectivamente
 
 """
+
+fecha_actualizada = "23/03/2025"
